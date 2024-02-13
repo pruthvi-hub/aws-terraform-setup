@@ -1,0 +1,1 @@
+Configuration for EC2 instances (VMs).
